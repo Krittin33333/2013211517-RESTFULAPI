@@ -1,0 +1,23 @@
+{
+  "name": "Krittin",
+  "version": "1.0.0",
+  "description": "Krittin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krittin33333/2013211517-RESTFULAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krittin33333/2013211517-RESTFULAPI/issues"
+  },
+  "homepage": "https://github.com/Krittin33333/2013211517-RESTFULAPI#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
