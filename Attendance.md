@@ -1,2 +1,1 @@
-19/11/2022
-2013211517
+Krittin (Aom): Chapter 2 - Basic NPM & Basic Modern Javascript
